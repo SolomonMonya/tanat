@@ -1,0 +1,7 @@
+C:\Users\dailycode\Desktop\Tanat\Client_source\Log4Tanat\bin\Debug\net40\Log4Tanat.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\Log4Tanat\bin\Debug\net40\Log4Tanat.pdb
+C:\Users\dailycode\Desktop\Tanat\Client_source\Log4Tanat\obj\Debug\net40\Log4Tanat.csproj.CoreCompileInputs.cache
+C:\Users\dailycode\Desktop\Tanat\Client_source\Log4Tanat\obj\Debug\net40\Log4Tanat.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\Log4Tanat\obj\Debug\net40\Log4Tanat.pdb
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\net40\Log4Tanat.dll
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\net40\Log4Tanat.pdb

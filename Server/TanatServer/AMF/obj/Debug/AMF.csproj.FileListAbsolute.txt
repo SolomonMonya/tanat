@@ -1,0 +1,10 @@
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\AMF.dll
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\AMF.pdb
+C:\Users\dailycode\Desktop\Tanat\Client_source\AMF\obj\Debug\AMF.csproj.CoreCompileInputs.cache
+C:\Users\dailycode\Desktop\Tanat\Client_source\AMF\obj\Debug\AMF.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\AMF\obj\Debug\AMF.pdb
+C:\Users\dailycode\Desktop\Tanat\Client_source\AMF\obj\Debug\AMF.csprojAssemblyReference.cache
+C:\Users\dailycode\Desktop\Tanat\Server\TanatServer\AMF\obj\Debug\AMF.csprojAssemblyReference.cache
+C:\Users\dailycode\Desktop\Tanat\Server\TanatServer\AMF\obj\Debug\AMF.csproj.CoreCompileInputs.cache
+C:\Users\dailycode\Desktop\Tanat\Server\TanatServer\AMF\obj\Debug\AMF.dll
+C:\Users\dailycode\Desktop\Tanat\Server\TanatServer\AMF\obj\Debug\AMF.pdb

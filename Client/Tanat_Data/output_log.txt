@@ -1,0 +1,27 @@
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 27.20.100.9030]
+    Renderer: Intel(R) UHD Graphics 620
+    Vendor:   Intel
+    VRAM:     128 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at -1920,0
+Non platform assembly: data-02FE3AA8 (this message is harmless)
+Non platform assembly: data-0304A1E0 (this message is harmless)
+Non platform assembly: data-0A357020 (this message is harmless)
+Non platform assembly: data-03050ED0 (this message is harmless)
+Non platform assembly: data-0305CD20 (this message is harmless)
+Non platform assembly: data-0305F970 (this message is harmless)
+Non platform assembly: data-03063BE8 (this message is harmless)
+Non platform assembly: data-0A450048 (this message is harmless)
+Non platform assembly: data-0A459258 (this message is harmless)
+Platform assembly: C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\System.Xml.dll (this message is harmless)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 561.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+Platform assembly: C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\Mono.Security.dll (this message is harmless)

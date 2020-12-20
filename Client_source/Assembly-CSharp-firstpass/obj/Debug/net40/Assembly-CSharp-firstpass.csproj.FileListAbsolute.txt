@@ -1,0 +1,9 @@
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp-firstpass\bin\Debug\net40\Assembly-CSharp-firstpass.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp-firstpass\bin\Debug\net40\Assembly-CSharp-firstpass.pdb
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp-firstpass\bin\Debug\net40\UnityEngine.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp-firstpass\obj\Debug\net40\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp-firstpass\obj\Debug\net40\Assembly-CSharp-firstpass.csproj.CopyComplete
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp-firstpass\obj\Debug\net40\Assembly-CSharp-firstpass.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp-firstpass\obj\Debug\net40\Assembly-CSharp-firstpass.pdb
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\net40\Assembly-CSharp-firstpass.dll
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\net40\Assembly-CSharp-firstpass.pdb

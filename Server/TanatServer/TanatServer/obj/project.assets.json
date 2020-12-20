@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AMF/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v2.0",
+        "compile": {
+          "bin/placeholder/AMF.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AMF.dll": {}
+        }
+      },
+      "AmfData/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AmfData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AmfData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AMF/1.0.0": {
+      "type": "project",
+      "path": "../AMF/AMF.csproj",
+      "msbuildProject": "../AMF/AMF.csproj"
+    },
+    "AmfData/1.0.0": {
+      "type": "project",
+      "path": "../AmfData/AmfData.csproj",
+      "msbuildProject": "../AmfData/AmfData.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "AMF >= 1.0.0",
+      "AmfData >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dailycode\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dailycode\\Desktop\\Tanat\\Server\\TanatServer\\TanatServer\\TanatServer.csproj",
+      "projectName": "TanatServer",
+      "projectPath": "C:\\Users\\dailycode\\Desktop\\Tanat\\Server\\TanatServer\\TanatServer\\TanatServer.csproj",
+      "packagesPath": "C:\\Users\\dailycode\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dailycode\\Desktop\\Tanat\\Server\\TanatServer\\TanatServer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dailycode\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\dailycode\\Desktop\\Tanat\\Server\\TanatServer\\AmfData\\AmfData.csproj": {
+              "projectPath": "C:\\Users\\dailycode\\Desktop\\Tanat\\Server\\TanatServer\\AmfData\\AmfData.csproj"
+            },
+            "C:\\Users\\dailycode\\Desktop\\Tanat\\Server\\TanatServer\\AMF\\AMF.csproj": {
+              "projectPath": "C:\\Users\\dailycode\\Desktop\\Tanat\\Server\\TanatServer\\AMF\\AMF.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

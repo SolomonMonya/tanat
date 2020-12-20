@@ -1,0 +1,13 @@
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\bin\Debug\net40\Assembly-CSharp.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\bin\Debug\net40\Assembly-CSharp.pdb
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\bin\Debug\net40\AMF.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\bin\Debug\net40\Log4Tanat.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\bin\Debug\net40\Network.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\bin\Debug\net40\TanatKernel.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\bin\Debug\net40\UnityEngine.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\obj\Debug\net40\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\obj\Debug\net40\Assembly-CSharp.csproj.CopyComplete
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\obj\Debug\net40\Assembly-CSharp.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\obj\Debug\net40\Assembly-CSharp.pdb
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\net40\Assembly-CSharp.dll
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\net40\Assembly-CSharp.pdb

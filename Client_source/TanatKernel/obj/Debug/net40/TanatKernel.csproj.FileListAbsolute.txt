@@ -1,0 +1,11 @@
+C:\Users\dailycode\Desktop\Tanat\Client_source\TanatKernel\bin\Debug\net40\TanatKernel.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\TanatKernel\bin\Debug\net40\TanatKernel.pdb
+C:\Users\dailycode\Desktop\Tanat\Client_source\TanatKernel\bin\Debug\net40\AMF.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\TanatKernel\bin\Debug\net40\Log4Tanat.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\TanatKernel\bin\Debug\net40\Network.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\TanatKernel\obj\Debug\net40\TanatKernel.csproj.CoreCompileInputs.cache
+C:\Users\dailycode\Desktop\Tanat\Client_source\TanatKernel\obj\Debug\net40\TanatKernel.csproj.CopyComplete
+C:\Users\dailycode\Desktop\Tanat\Client_source\TanatKernel\obj\Debug\net40\TanatKernel.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\TanatKernel\obj\Debug\net40\TanatKernel.pdb
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\net40\TanatKernel.dll
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\net40\TanatKernel.pdb

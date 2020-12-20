@@ -1,0 +1,7 @@
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\Assembly-CSharp-firstpass.dll
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\Assembly-CSharp-firstpass.pdb
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp-firstpass\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp-firstpass\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp-firstpass\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp-firstpass\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp-firstpass\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache

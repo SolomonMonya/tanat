@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TanatServer/1.0.0": {
+        "dependencies": {
+          "AMF": "1.0.0",
+          "AmfData": "1.0.0"
+        },
+        "runtime": {
+          "TanatServer.dll": {}
+        }
+      },
+      "AMF/1.0.0": {
+        "runtime": {
+          "AMF.dll": {}
+        }
+      },
+      "AmfData/1.0.0": {
+        "runtime": {
+          "AmfData.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TanatServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AMF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AmfData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

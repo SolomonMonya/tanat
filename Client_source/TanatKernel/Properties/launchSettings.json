@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TanatKernel": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\dailycode\\Desktop\\Tanat\\Client\\Tanat.exe",
+      "workingDirectory": "C:\\Users\\dailycode\\Desktop\\Tanat\\Client"
+    }
+  }
+}

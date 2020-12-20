@@ -1,0 +1,7 @@
+C:\Users\dailycode\Desktop\Tanat\Client_source\AMF\bin\Debug\net40\AMF.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\AMF\bin\Debug\net40\AMF.pdb
+C:\Users\dailycode\Desktop\Tanat\Client_source\AMF\obj\Debug\net40\AMF.csproj.CoreCompileInputs.cache
+C:\Users\dailycode\Desktop\Tanat\Client_source\AMF\obj\Debug\net40\AMF.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\AMF\obj\Debug\net40\AMF.pdb
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\net40\AMF.dll
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\net40\AMF.pdb

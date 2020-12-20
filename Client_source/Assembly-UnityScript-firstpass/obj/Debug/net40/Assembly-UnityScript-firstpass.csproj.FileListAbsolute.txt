@@ -1,0 +1,2 @@
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-UnityScript-firstpass\obj\Debug\net40\Assembly-UnityScript-firstpass.csprojAssemblyReference.cache
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-UnityScript-firstpass\obj\Debug\net40\Assembly-UnityScript-firstpass.csproj.CoreCompileInputs.cache

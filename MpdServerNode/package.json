@@ -1,0 +1,24 @@
+{
+  "name": "controlservernode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon ./server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jscad/amf-deserializer": "^0.2.3",
+    "amf": "^0.1.0",
+    "body-parser": "^1.19.0",
+    "buffer-reverse": "^1.0.1",
+    "express": "^4.17.1",
+    "libamf": "^1.3.2",
+    "libamf-fix": "^1.3.2",
+    "socket.io": "^3.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\dailycode\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dailycode\\Desktop\\Tanat\\Client_source\\UnityScript.Lang\\UnityScript.Lang.csproj",
+      "projectName": "UnityScript.Lang",
+      "projectPath": "C:\\Users\\dailycode\\Desktop\\Tanat\\Client_source\\UnityScript.Lang\\UnityScript.Lang.csproj",
+      "packagesPath": "C:\\Users\\dailycode\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dailycode\\Desktop\\Tanat\\Client_source\\UnityScript.Lang\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dailycode\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net40"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net40": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net40": {
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

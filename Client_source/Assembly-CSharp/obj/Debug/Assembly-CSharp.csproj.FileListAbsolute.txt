@@ -1,0 +1,7 @@
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\Assembly-CSharp.dll
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\Assembly-CSharp.pdb
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\obj\Debug\Assembly-CSharp.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\Assembly-CSharp\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,7 @@
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\TanatKernel.dll
+C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\TanatKernel.pdb
+C:\Users\dailycode\Desktop\Tanat\Client_source\TanatKernel\obj\Debug\TanatKernel.csprojAssemblyReference.cache
+C:\Users\dailycode\Desktop\Tanat\Client_source\TanatKernel\obj\Debug\TanatKernel.csproj.CoreCompileInputs.cache
+C:\Users\dailycode\Desktop\Tanat\Client_source\TanatKernel\obj\Debug\TanatKernel.csproj.CopyComplete
+C:\Users\dailycode\Desktop\Tanat\Client_source\TanatKernel\obj\Debug\TanatKernel.dll
+C:\Users\dailycode\Desktop\Tanat\Client_source\TanatKernel\obj\Debug\TanatKernel.pdb

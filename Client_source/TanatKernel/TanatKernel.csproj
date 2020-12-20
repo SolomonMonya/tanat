@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>TanatKernel</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net20</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\dailycode\Desktop\Tanat\Client\Tanat_Data\Managed\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="Network">
+      <HintPath>..\..\Client\Tanat_Data\Managed\Network.dll</HintPath>
+    </Reference>
+    <Reference Include="Log4Tanat">
+      <HintPath>..\..\Client\Tanat_Data\Managed\Log4Tanat.dll</HintPath>
+    </Reference>
+    <Reference Include="AMF">
+      <HintPath>..\..\Client\Tanat_Data\Managed\AMF.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\Client\Tanat_Data\Managed\System.Xml.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

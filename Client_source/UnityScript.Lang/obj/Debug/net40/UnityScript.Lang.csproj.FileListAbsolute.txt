@@ -1,0 +1,2 @@
+C:\Users\dailycode\Desktop\Tanat\Client_source\UnityScript.Lang\obj\Debug\net40\UnityScript.Lang.csprojAssemblyReference.cache
+C:\Users\dailycode\Desktop\Tanat\Client_source\UnityScript.Lang\obj\Debug\net40\UnityScript.Lang.csproj.CoreCompileInputs.cache
